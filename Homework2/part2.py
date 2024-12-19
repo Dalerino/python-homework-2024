@@ -1,3 +1,4 @@
+# Create a calc program with add, subtract, multiply, divide functions
 num1 = int(input("Enter the first number: "))
 num2 = int(input("Enter the second number: "))
 oper = input("Enter the operation +, -, *, / : ")
